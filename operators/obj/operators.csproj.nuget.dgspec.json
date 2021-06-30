@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\variables\\variables.csproj": {}
+    "C:\\Users\\cengi\\Desktop\\csharp\\operators\\operators.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\variables\\variables.csproj": {
+    "C:\\Users\\cengi\\Desktop\\csharp\\operators\\operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cengi\\Desktop\\csharp\\variables\\variables.csproj",
-        "projectName": "variables",
-        "projectPath": "c:\\Users\\cengi\\Desktop\\csharp\\variables\\variables.csproj",
+        "projectUniqueName": "C:\\Users\\cengi\\Desktop\\csharp\\operators\\operators.csproj",
+        "projectName": "operators",
+        "projectPath": "C:\\Users\\cengi\\Desktop\\csharp\\operators\\operators.csproj",
         "packagesPath": "C:\\Users\\cengi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cengi\\Desktop\\csharp\\variables\\obj\\",
+        "outputPath": "C:\\Users\\cengi\\Desktop\\csharp\\operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengi\\AppData\\Roaming\\NuGet\\NuGet.Config"
