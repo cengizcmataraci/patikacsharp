@@ -6,20 +6,20 @@ namespace exception_handling
   {
     static void Main(string[] args)
     {
-      // try // Hataya neden olabilecek kısım
-      // {
-      //   Console.WriteLine("Bir Sayı Giriniz: ");
-      //   int sayi = Convert.ToInt32(Console.ReadLine());
-      //   Console.WriteLine("Sayı: " + sayi);
-      // }
-      // catch (Exception ex)
-      // {
-      //   Console.WriteLine("Hata: " + ex.Message.ToString()); // Ex objesindeki hata mesajı
-      // }
-      // finally // Hata alsın almasın gösterilir.
-      // {
-      //   Console.WriteLine("İşlem tamamlandı!");
-      // }
+      try // Hataya neden olabilecek kısım
+      {
+        Console.WriteLine("Bir Sayı Giriniz: ");
+        int sayi = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Sayı: " + sayi);
+      }
+      catch (Exception ex)
+      {
+        Console.WriteLine("Hata: " + ex.Message.ToString()); // Ex objesindeki hata mesajı
+      }
+      finally // Hata alsın almasın gösterilir.
+      {
+        Console.WriteLine("İşlem tamamlandı!");
+      }
 
       try
       {

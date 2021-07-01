@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.exe
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.deps.json
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.dll
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\ref\conditional_statements.dll
+C:\Users\cengi\Desktop\csharp\conditional_statements\bin\Debug\net5.0\conditional_statements.pdb
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.dll
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\ref\conditional_statements.dll
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.pdb
+C:\Users\cengi\Desktop\csharp\conditional_statements\obj\Debug\net5.0\conditional_statements.genruntimeconfig.cache
