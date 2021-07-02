@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.exe
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.deps.json
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.dll
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\ref\while_loop.dll
+C:\Users\cengi\Desktop\csharp\while_loop\bin\Debug\net5.0\while_loop.pdb
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.dll
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\ref\while_loop.dll
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.pdb
+C:\Users\cengi\Desktop\csharp\while_loop\obj\Debug\net5.0\while_loop.genruntimeconfig.cache
