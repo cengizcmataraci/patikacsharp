@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.exe
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.deps.json
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.dll
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\ref\array_methods.dll
+C:\Users\cengi\Desktop\csharp\array_methods\bin\Debug\net5.0\array_methods.pdb
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.dll
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\ref\array_methods.dll
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.pdb
+C:\Users\cengi\Desktop\csharp\array_methods\obj\Debug\net5.0\array_methods.genruntimeconfig.cache
