@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.exe
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.deps.json
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.dll
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\ref\recursive-extension_methods.dll
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\bin\Debug\net5.0\recursive-extension_methods.pdb
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.dll
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\ref\recursive-extension_methods.dll
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.pdb
+C:\Users\cengi\Desktop\csharp\recursive-extension_methods\obj\Debug\net5.0\recursive-extension_methods.genruntimeconfig.cache
