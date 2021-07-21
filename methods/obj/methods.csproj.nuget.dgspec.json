@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\array_methods\\array_methods.csproj": {}
+    "C:\\Users\\cengi\\Desktop\\csharp\\methods\\methods.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\array_methods\\array_methods.csproj": {
+    "C:\\Users\\cengi\\Desktop\\csharp\\methods\\methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cengi\\Desktop\\csharp\\array_methods\\array_methods.csproj",
-        "projectName": "array_methods",
-        "projectPath": "c:\\Users\\cengi\\Desktop\\csharp\\array_methods\\array_methods.csproj",
+        "projectUniqueName": "C:\\Users\\cengi\\Desktop\\csharp\\methods\\methods.csproj",
+        "projectName": "methods",
+        "projectPath": "C:\\Users\\cengi\\Desktop\\csharp\\methods\\methods.csproj",
         "packagesPath": "C:\\Users\\cengi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cengi\\Desktop\\csharp\\array_methods\\obj\\",
+        "outputPath": "C:\\Users\\cengi\\Desktop\\csharp\\methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengi\\AppData\\Roaming\\NuGet\\NuGet.Config"
