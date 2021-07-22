@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.exe
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.deps.json
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.dll
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\ref\koleksiyonlar-soru-3.dll
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\bin\Debug\net5.0\koleksiyonlar-soru-3.pdb
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.dll
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\ref\koleksiyonlar-soru-3.dll
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.pdb
+C:\Users\cengi\Desktop\csharp\homework_2\koleksiyonlar-soru-3\obj\Debug\net5.0\koleksiyonlar-soru-3.genruntimeconfig.cache
