@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.exe
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.deps.json
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.dll
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\ref\collections.dll
+C:\Users\cengi\Desktop\csharp\collections\bin\Debug\net5.0\collections.pdb
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.dll
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\ref\collections.dll
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.pdb
+C:\Users\cengi\Desktop\csharp\collections\obj\Debug\net5.0\collections.genruntimeconfig.cache
