@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\classes\\classes.csproj": {}
+    "C:\\Users\\cengi\\Desktop\\csharp\\access-modifiers-constructors\\access-modifiers-constructors.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cengi\\Desktop\\csharp\\classes\\classes.csproj": {
+    "C:\\Users\\cengi\\Desktop\\csharp\\access-modifiers-constructors\\access-modifiers-constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cengi\\Desktop\\csharp\\classes\\classes.csproj",
-        "projectName": "classes",
-        "projectPath": "c:\\Users\\cengi\\Desktop\\csharp\\classes\\classes.csproj",
+        "projectUniqueName": "C:\\Users\\cengi\\Desktop\\csharp\\access-modifiers-constructors\\access-modifiers-constructors.csproj",
+        "projectName": "access-modifiers-constructors",
+        "projectPath": "C:\\Users\\cengi\\Desktop\\csharp\\access-modifiers-constructors\\access-modifiers-constructors.csproj",
         "packagesPath": "C:\\Users\\cengi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cengi\\Desktop\\csharp\\classes\\obj\\",
+        "outputPath": "C:\\Users\\cengi\\Desktop\\csharp\\access-modifiers-constructors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengi\\AppData\\Roaming\\NuGet\\NuGet.Config"

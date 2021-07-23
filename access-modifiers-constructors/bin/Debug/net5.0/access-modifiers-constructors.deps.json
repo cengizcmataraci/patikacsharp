@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "access-modifiers-constructors/1.0.0": {
+        "runtime": {
+          "access-modifiers-constructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "access-modifiers-constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

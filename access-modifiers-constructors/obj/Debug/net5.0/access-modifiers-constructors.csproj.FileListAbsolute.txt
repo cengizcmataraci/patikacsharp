@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.exe
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.deps.json
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.dll
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\ref\access-modifiers-constructors.dll
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\bin\Debug\net5.0\access-modifiers-constructors.pdb
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.dll
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\ref\access-modifiers-constructors.dll
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.pdb
+C:\Users\cengi\Desktop\csharp\access-modifiers-constructors\obj\Debug\net5.0\access-modifiers-constructors.genruntimeconfig.cache
