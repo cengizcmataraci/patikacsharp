@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.exe
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.deps.json
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.dll
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\ref\enumlar.dll
+C:\Users\cengi\Desktop\csharp\enumlar\bin\Debug\net5.0\enumlar.pdb
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.dll
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\ref\enumlar.dll
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.pdb
+C:\Users\cengi\Desktop\csharp\enumlar\obj\Debug\net5.0\enumlar.genruntimeconfig.cache
