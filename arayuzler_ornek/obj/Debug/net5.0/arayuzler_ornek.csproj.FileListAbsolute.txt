@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.exe
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.deps.json
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.runtimeconfig.json
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.runtimeconfig.dev.json
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.dll
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\ref\arayuzler_ornek.dll
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.pdb
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.AssemblyInfoInputs.cache
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.AssemblyInfo.cs
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.dll
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\ref\arayuzler_ornek.dll
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.pdb
+C:\Users\cengi\Desktop\csharp\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.genruntimeconfig.cache
