@@ -45,4 +45,5 @@ namespace enumlar
     Sicak = 25,
     CokSicak = 30
   }
+
 }
